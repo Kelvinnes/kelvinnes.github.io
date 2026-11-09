@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420"><rect width="600" height="420" rx="18" fill="#0f192c"/>
+<rect x="0" y="0" width="600" height="38" rx="18" fill="#131f36"/><circle cx="24" cy="19" r="5" fill="#ff5f56"/><circle cx="42" cy="19" r="5" fill="#ffbd2e"/><circle cx="60" cy="19" r="5" fill="#27c93f"/>
+<text x="90" y="24" font-family="monospace" font-size="12" fill="#95a3bb">security-events — live monitor</text>
+<g font-family="monospace" font-size="11" fill="#95a3bb"><text x="28" y="70">EVENTS / HR</text><text x="228" y="70">ALERTS BY SEVERITY</text><text x="428" y="70">FIREWALL</text></g>
+<g><rect x="24" y="80" width="170" height="90" rx="10" fill="#131f36" stroke="#21314f"/><text x="40" y="128" font-family="Inter,sans-serif" font-size="30" font-weight="700" fill="#22d3b6">12.4k</text><text x="40" y="152" font-family="monospace" font-size="10" fill="#95a3bb">+8% vs last hr</text>
+<rect x="224" y="80" width="170" height="90" rx="10" fill="#131f36" stroke="#21314f"/><rect x="240" y="130" width="22" height="26" fill="#22d3b6"/><rect x="272" y="116" width="22" height="40" fill="#4f8cff"/><rect x="304" y="100" width="22" height="56" fill="#ffbd2e"/><rect x="336" y="92" width="22" height="64" fill="#ff5f56"/>
+<rect x="424" y="80" width="152" height="90" rx="10" fill="#131f36" stroke="#21314f"/><path d="M500 98l32 12v22c0 16-14 26-32 32-18-6-32-16-32-32v-22z" fill="none" stroke="#22d3b6" stroke-width="3"/><path d="M486 132l10 10 18-20" fill="none" stroke="#22d3b6" stroke-width="3"/></g>
+<rect x="24" y="186" width="552" height="130" rx="10" fill="#131f36" stroke="#21314f"/>
+<polyline points="40,290 90,262 140,276 190,238 240,254 290,214 340,240 390,206 440,226 490,200 540,214" fill="none" stroke="#22d3b6" stroke-width="3"/>
+<polyline points="40,300 90,288 140,292 190,274 240,282 290,262 340,270 390,258 440,266 490,252 540,258" fill="none" stroke="#4f8cff" stroke-width="2" stroke-dasharray="5 4"/>
+<g font-family="monospace" font-size="11"><text x="28" y="340" fill="#22d3b6">[OK]</text><text x="64" y="340" fill="#95a3bb">fw-policy sync complete</text>
+<text x="28" y="360" fill="#ffbd2e">[WARN]</text><text x="78" y="360" fill="#95a3bb">multiple failed logins detected</text>
+<text x="28" y="380" fill="#ff5f56">[ALERT]</text><text x="84" y="380" fill="#95a3bb">suspicious outbound traffic flagged</text>
+<text x="28" y="400" fill="#22d3b6">[OK]</text><text x="64" y="400" fill="#95a3bb">vulnerability scan queued</text></g></svg>

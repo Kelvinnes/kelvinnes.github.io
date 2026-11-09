@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="g1" cx="75%" cy="30%" r="60%"><stop offset="0" stop-color="#4f8cff" stop-opacity=".28"/><stop offset="1" stop-color="#4f8cff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="15%" cy="85%" r="50%"><stop offset="0" stop-color="#22d3b6" stop-opacity=".22"/><stop offset="1" stop-color="#22d3b6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#21314f" stroke-width="1" opacity=".5"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="#0b1220"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+  <rect width="1600" height="900" fill="url(#g1)"/>
+  <rect width="1600" height="900" fill="url(#g2)"/>
+  <g stroke="#22d3b6" stroke-opacity=".35" stroke-width="1.2" fill="none">
+    <path d="M1100 150 L1260 260 L1420 180 L1500 340 L1330 420 L1260 260"/>
+    <path d="M1330 420 L1180 560 L1380 640 L1500 340"/>
+    <path d="M1180 560 L1020 470 L1100 150"/>
+    <path d="M200 640 L360 560 L480 700 L360 560 L300 420 L480 380 L360 560"/>
+    <path d="M480 700 L640 760 L700 620 L480 700"/>
+  </g>
+  <g fill="#22d3b6">
+    <circle cx="1100" cy="150" r="6"/><circle cx="1260" cy="260" r="8"/><circle cx="1420" cy="180" r="5"/>
+    <circle cx="1500" cy="340" r="7"/><circle cx="1330" cy="420" r="6"/><circle cx="1180" cy="560" r="8"/>
+    <circle cx="1380" cy="640" r="5"/><circle cx="1020" cy="470" r="6"/>
+    <circle cx="200" cy="640" r="5"/><circle cx="360" cy="560" r="8"/><circle cx="480" cy="700" r="6"/>
+    <circle cx="300" cy="420" r="5"/><circle cx="480" cy="380" r="7"/><circle cx="640" cy="760" r="5"/><circle cx="700" cy="620" r="6"/>
+  </g>
+  <g font-family="monospace" font-size="14" fill="#4f8cff" fill-opacity=".45">
+    <text x="90" y="120">01001011 01000101 01001100</text>
+    <text x="1180" y="820">10110010 11100101 00110101</text>
+    <text x="620" y="90">$ nmap -sV --script vuln</text>
+  </g>
+</svg>

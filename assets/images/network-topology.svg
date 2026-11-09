@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280"><rect width="700" height="280" fill="#0f192c"/>
+<g stroke="#21314f" stroke-width="2"><line x1="90" y1="140" x2="230" y2="140"/><line x1="290" y1="140" x2="400" y2="70"/><line x1="290" y1="140" x2="400" y2="140"/><line x1="290" y1="140" x2="400" y2="210"/><line x1="460" y1="70" x2="590" y2="50"/><line x1="460" y1="70" x2="590" y2="110"/><line x1="460" y1="210" x2="590" y2="190"/><line x1="460" y1="210" x2="590" y2="240"/></g>
+<g stroke="#22d3b6" stroke-width="2" stroke-dasharray="6 5" fill="none"><line x1="90" y1="140" x2="230" y2="140"/></g>
+<g font-family="Inter,sans-serif" font-size="12" fill="#e6edf7" text-anchor="middle">
+<circle cx="60" cy="140" r="30" fill="#131f36" stroke="#4f8cff" stroke-width="2"/><text x="60" y="144">Internet</text>
+<rect x="230" y="110" width="60" height="60" rx="12" fill="#131f36" stroke="#22d3b6" stroke-width="3"/><text x="260" y="145">FW</text><text x="260" y="192" fill="#95a3bb" font-size="11">FortiGate</text>
+<rect x="400" y="45" width="60" height="50" rx="10" fill="#131f36" stroke="#4f8cff" stroke-width="2"/><text x="430" y="75">SIEM</text>
+<rect x="400" y="115" width="60" height="50" rx="10" fill="#131f36" stroke="#4f8cff" stroke-width="2"/><text x="430" y="145">Mail GW</text>
+<rect x="400" y="185" width="60" height="50" rx="10" fill="#131f36" stroke="#4f8cff" stroke-width="2"/><text x="430" y="215">AD / DNS</text>
+<rect x="590" y="30" width="80" height="40" rx="8" fill="#131f36" stroke="#21314f"/><text x="630" y="55">Analyst</text>
+<rect x="590" y="90" width="80" height="40" rx="8" fill="#131f36" stroke="#21314f"/><text x="630" y="115">Logs</text>
+<rect x="590" y="170" width="80" height="40" rx="8" fill="#131f36" stroke="#21314f"/><text x="630" y="195">Users</text>
+<rect x="590" y="220" width="80" height="40" rx="8" fill="#131f36" stroke="#21314f"/><text x="630" y="245">Servers</text></g></svg>
